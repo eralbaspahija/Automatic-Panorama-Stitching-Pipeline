@@ -68,7 +68,7 @@ Uses Gaussian and Laplacian pyramids to blend images at multiple spatial frequen
 # Installation
 
 Clone the repository:
-git clone https://github.com/eralbaspahija/Automatic-Panorama-Stitching-Pipeline.gi
+git clone https://github.com/eralbaspahija/Automatic-Panorama-Stitching-Pipeline.git
 
 Install dependencies:
 pip install opencv-python numpy matplotlib
@@ -107,4 +107,8 @@ The system successfully stitches overlapping images and demonstrates how differe
 
 
 ---
+
+# Paper 
+Find here our work prepared ond a pdf paper:
+[Automatic Panorama Stitching Pipeline.pdf](https://github.com/user-attachments/files/25867045/Automatic.Panorama.Stitching.Pipeline.pdf)
 
